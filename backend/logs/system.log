@@ -1,0 +1,143 @@
+2025-12-25 21:17:44 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-12-25 21:17:44 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-25 21:17:44 [INFO]  * Restarting with stat
+2025-12-25 21:17:45 [WARNING]  * Debugger is active!
+2025-12-25 21:17:45 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 21:18:19 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16 (Detected CPUs=16)
+2025-12-25 21:18:22 [INFO] 127.0.0.1 - - [25/Dec/2025 21:18:22] "POST /run HTTP/1.1" 200 -
+2025-12-25 21:20:05 [INFO]  * Detected change in 'c:\\Users\\wmost\\MO\\SEM 7\\Parallel computing\\Project\\backend\\app.py', reloading
+2025-12-25 21:20:05 [INFO]  * Restarting with stat
+2025-12-25 21:20:05 [WARNING]  * Debugger is active!
+2025-12-25 21:20:06 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 21:21:00 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-25 21:21:00 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-25 21:21:01 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-25 21:21:01 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-25 21:21:04 [INFO] 127.0.0.1 - - [25/Dec/2025 21:21:04] "POST /run HTTP/1.1" 200 -
+2025-12-25 21:21:11 [INFO] Benchmark Start. Threads=16 Procs=16 (Detected CPUs=16)
+2025-12-25 21:21:38 [INFO] 127.0.0.1 - - [25/Dec/2025 21:21:38] "POST /benchmark HTTP/1.1" 200 -
+2025-12-25 21:22:25 [INFO]  * Detected change in 'c:\\Users\\wmost\\MO\\SEM 7\\Parallel computing\\Project\\backend\\app.py', reloading
+2025-12-25 21:22:25 [INFO]  * Restarting with stat
+2025-12-25 21:22:25 [WARNING]  * Debugger is active!
+2025-12-25 21:22:25 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 21:22:36 [INFO]  * Detected change in 'c:\\Users\\wmost\\MO\\SEM 7\\Parallel computing\\Project\\backend\\app.py', reloading
+2025-12-25 21:22:36 [INFO]  * Restarting with stat
+2025-12-25 21:22:36 [WARNING]  * Debugger is active!
+2025-12-25 21:22:36 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 21:24:11 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-25 21:24:11 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-25 21:24:11 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-25 21:24:11 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-25 21:24:14 [INFO] 127.0.0.1 - - [25/Dec/2025 21:24:14] "POST /run HTTP/1.1" 200 -
+2025-12-25 21:24:38 [INFO] Job Start. EnginePref=auto Threads=5 Procs=5
+2025-12-25 21:24:38 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-25 21:24:38 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-25 21:24:44 [INFO] 127.0.0.1 - - [25/Dec/2025 21:24:44] "POST /run HTTP/1.1" 200 -
+2025-12-25 22:46:24 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-12-25 22:46:24 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-25 22:46:24 [INFO]  * Restarting with stat
+2025-12-25 22:46:25 [WARNING]  * Debugger is active!
+2025-12-25 22:46:25 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 22:46:38 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+2025-12-25 22:46:38 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-25 22:46:38 [INFO]  * Restarting with stat
+2025-12-25 22:46:38 [WARNING]  * Debugger is active!
+2025-12-25 22:46:38 [INFO]  * Debugger PIN: 767-679-265
+2025-12-25 22:48:40 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-25 22:48:40 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-25 22:48:40 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-25 22:48:40 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-25 22:48:42 [INFO] 127.0.0.1 - - [25/Dec/2025 22:48:42] "POST /run HTTP/1.1" 200 -
+2025-12-25 22:49:05 [INFO] Job Start. EnginePref=auto Threads=8 Procs=8
+2025-12-25 22:49:05 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-25 22:49:05 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-25 22:49:08 [INFO] 127.0.0.1 - - [25/Dec/2025 22:49:08] "POST /run HTTP/1.1" 200 -
+2025-12-27 15:42:29 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.180.1.156:5000
+2025-12-27 15:42:29 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-27 15:42:29 [INFO]  * Restarting with stat
+2025-12-27 15:42:29 [WARNING]  * Debugger is active!
+2025-12-27 15:42:29 [INFO]  * Debugger PIN: 767-679-265
+2025-12-27 15:44:07 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-27 15:44:07 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-27 15:44:08 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-27 15:44:08 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-27 15:44:14 [INFO] 127.0.0.1 - - [27/Dec/2025 15:44:14] "POST /run HTTP/1.1" 200 -
+2025-12-27 15:44:57 [INFO] Job Start. EnginePref=auto Threads=6 Procs=6
+2025-12-27 15:44:57 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-27 15:44:57 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-27 15:45:03 [INFO] 127.0.0.1 - - [27/Dec/2025 15:45:03] "POST /run HTTP/1.1" 200 -
+2025-12-28 23:49:29 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.240.241:5000
+2025-12-28 23:49:29 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-28 23:49:29 [INFO]  * Restarting with stat
+2025-12-28 23:49:29 [WARNING]  * Debugger is active!
+2025-12-28 23:49:29 [INFO]  * Debugger PIN: 767-679-265
+2025-12-28 23:50:19 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.240.241:5000
+2025-12-28 23:50:20 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-28 23:50:20 [INFO]  * Restarting with stat
+2025-12-28 23:50:20 [WARNING]  * Debugger is active!
+2025-12-28 23:50:20 [INFO]  * Debugger PIN: 767-679-265
+2025-12-28 23:52:45 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-28 23:52:45 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-28 23:52:46 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-28 23:52:46 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-28 23:52:48 [INFO] 127.0.0.1 - - [28/Dec/2025 23:52:48] "POST /run HTTP/1.1" 200 -
+2025-12-28 23:54:37 [INFO] Benchmark Start. Threads=16 Procs=16 (Detected CPUs=16)
+2025-12-28 23:54:54 [INFO] 127.0.0.1 - - [28/Dec/2025 23:54:54] "POST /benchmark HTTP/1.1" 200 -
+2025-12-28 23:55:54 [INFO] Benchmark Start. Threads=16 Procs=16 (Detected CPUs=16)
+2025-12-28 23:55:55 [INFO] 127.0.0.1 - - [28/Dec/2025 23:55:55] "POST /benchmark HTTP/1.1" 200 -
+2025-12-28 23:56:13 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:13] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:13 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:13] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:13 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:13] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:13 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:13] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:14 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:14] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:15 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:15] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:18 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:18] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:18 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:18] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:18 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:18] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:18 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:18] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:19 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:19] "GET /keygen HTTP/1.1" 200 -
+2025-12-28 23:56:39 [INFO] 127.0.0.1 - - [28/Dec/2025 23:56:39] "POST /hash HTTP/1.1" 200 -
+2025-12-29 15:17:53 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.93.218:5000
+2025-12-29 15:17:53 [INFO] [33mPress CTRL+C to quit[0m
+2025-12-29 15:17:53 [INFO]  * Restarting with stat
+2025-12-29 15:17:53 [WARNING]  * Debugger is active!
+2025-12-29 15:17:53 [INFO]  * Debugger PIN: 767-679-265
+2025-12-29 15:50:48 [INFO] Auto-Configuration Applied: Adjusted to Threads=16, Procs=16 (Host CPUs=16)
+2025-12-29 15:50:48 [INFO] Job Start. EnginePref=auto Threads=16 Procs=16
+2025-12-29 15:50:48 [INFO] File 'big.log' (209715200 bytes) -> Auto-selected Engine: mpi
+2025-12-29 15:50:48 [INFO] File 'test.log' (15 bytes) -> Auto-selected Engine: serial
+2025-12-29 15:50:52 [INFO] 127.0.0.1 - - [29/Dec/2025 15:50:52] "POST /run HTTP/1.1" 200 -
+2025-12-29 15:51:14 [INFO] Benchmark Start. Threads=16 Procs=16 (Detected CPUs=16)
+2025-12-29 15:51:38 [INFO] 127.0.0.1 - - [29/Dec/2025 15:51:38] "POST /benchmark HTTP/1.1" 200 -
+2025-12-29 15:52:12 [INFO] 127.0.0.1 - - [29/Dec/2025 15:52:12] "POST /hash HTTP/1.1" 200 -
