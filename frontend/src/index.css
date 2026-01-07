@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Base Colors (Pure Black Background) */
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+
+    /* Card Colors (Dark Gray with transparency) */
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+ 
+    /* Popover/Dropdowns */
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+ 
+    /* Primary (Bright Green for Buttons/Actions) */
+    --primary: 142 76% 36%; /* Green-600 */
+    --primary-foreground: 0 0% 100%; /* White Text */
+ 
+    /* Secondary (Dark Gray for Muted buttons) */
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+ 
+    /* Muted (Subtle Text) */
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+ 
+    /* Accent (Hover states - Dark Green) */
+    --accent: 142 70% 15%; 
+    --accent-foreground: 0 0% 98%;
+ 
+    /* Destructive (Red) */
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+ 
+    /* Borders & Inputs */
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 142 76% 36%;
+ 
+    --radius: 0.5rem;
+  }
+ 
+  .dark {
+    /* Identical for Dark Mode since we force dark anyway */
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 142 76% 36%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 142 70% 15%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 142 76% 36%;
+  }
+
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b; 
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a; 
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #22c55e; 
+}
